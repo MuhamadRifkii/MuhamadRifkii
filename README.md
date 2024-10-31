@@ -1,6 +1,6 @@
 # Welcome! 
 
-An Software Developer who love to create and share project about Mobile Technology that have benefit to many people!
+A Software Developer who love to create and share project about Mobile Technology that have benefit to many people!
 
 ### Tech Stack
 [![My Skills Language](https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase,flutter,react,laravel,&theme=light)](https://github.com/MuhamadRifkii)
