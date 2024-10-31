@@ -3,7 +3,7 @@
 An Software Developer who love to create and share project about Mobile Technology that have benefit to many people!
 
 ### Tech Stack
-[![My Skills Language](https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase,flutter,&theme=light)](https://github.com/MuhamadRifkii)
+[![My Skills Language](https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase,flutter,reactjs,&theme=light)](https://github.com/MuhamadRifkii)
   
 ### Github Statistic
 <p align="left">
