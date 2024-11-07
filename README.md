@@ -14,9 +14,9 @@ A Software Developer who love to create and share project about Mobile Technolog
 </p>
 
 ### Reach me on
-  <a href="https://www.linkedin.com/in/muhamad-rifqi-3758762bb/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://discord.com/users/407839462991593473" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
+<a href="https://www.linkedin.com/in/muhamad-rifqi-3758762bb/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://discord.com/users/407839462991593473" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+</a>
